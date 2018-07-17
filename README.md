@@ -1,2 +1,5 @@
-# cube_adventure
+## cube_adventure
 2D sidescrolling action game made with Godot engine
+
+# features so far:
+-
